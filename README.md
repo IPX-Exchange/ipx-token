@@ -42,7 +42,7 @@ Unlocked at the start: 244,800,000 IPX (24.48%). Team and investor allocations h
 ## Documentation
 
 - [Token page](https://www.ipx.exchange/about/token): contract, supply and current distribution
-- [Whitepaper v4.6](https://www.ipx.exchange/about/whitepaper): how raises, graduation, fees and staking work
+- [Whitepaper](https://www.ipx.exchange/about/whitepaper): how raises, graduation, fees and staking work
 - [About IPX](https://www.ipx.exchange/about) · [Team](https://www.ipx.exchange/about/team)
 
 ## Contact
